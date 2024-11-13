@@ -51,10 +51,16 @@ QA-CHALLANGE/
 ```
 
 Descrição dos Arquivos
+
 cypress/e2e/api_jokes.cy.js: Contém a suíte de testes para a API de piadas, incluindo testes de carga e validações de resposta.
+
 cypress.config.js: Configuração do Cypress, incluindo o baseUrl e opções de relatórios.
+
 package.json: Arquivo de configuração do projeto que contém as dependências e scripts utilizados.
-README.md: Documento que descreve o objetivo do desafio, como instalar as dependências e o que contém os arquivos do projeto. 6. Como Executar os Testes
+
+README.md: Documento que descreve o objetivo do desafio, como instalar as dependências e o que contém os arquivos do projeto. 6. Como
+
+Executar os Testes
 Modo interativo:
 
 ```bash
