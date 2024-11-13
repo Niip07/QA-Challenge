@@ -35,7 +35,7 @@ npm install
 
 ```lua
 
-desafio-api-piadas/
+QA-CHALLANGE/
 │
 ├── cypress/
 │   ├── e2e/
