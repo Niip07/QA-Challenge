@@ -58,10 +58,10 @@ cypress.config.js: Configuração do Cypress, incluindo o baseUrl e opções de 
 
 package.json: Arquivo de configuração do projeto que contém as dependências e scripts utilizados.
 
-README.md: Documento que descreve o objetivo do desafio, como instalar as dependências e o que contém os arquivos do projeto. 6. Como
+README.md: Documento que descreve o objetivo do desafio, como instalar as dependências e o que contém os arquivos do projeto.
 
-Executar os Testes
-Modo interativo:
+6. Como Executar os Testes
+   Modo interativo:
 
 ```bash
 npx cypress open
