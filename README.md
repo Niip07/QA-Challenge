@@ -43,6 +43,8 @@ QA-CHALLANGE/
 │   ├── support/                    # Arquivos de suporte do Cypress
 │
 ├── cypress.config.js               # Configuração do Cypress
+├── Documentação dos Testes.pdf     # Documento com os relatorios de testes e resultados
+├── Planejamento dos Testes.pdf     # Documento com o planejamento para os testes
 ├── package.json                    # Dependências e scripts do projeto
 ├── README.md                       # Documentação do projeto
 └── package-lock.json               # Arquivo de lock das dependências
