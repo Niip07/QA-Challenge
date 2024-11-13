@@ -19,7 +19,7 @@ Para instalar as dependências do projeto, siga as etapas abaixo:
 Clone este repositório:
 
 ```bash
-Copiar código
+
 git clone https://github.com/Niip07/QA-Challenge.git
 cd QA-Challenge
 ```
@@ -27,7 +27,6 @@ cd QA-Challenge
 Instale as dependências do projeto:
 
 ```bash
-Copiar código
 npm install
 ```
 
@@ -35,7 +34,7 @@ npm install
    A estrutura dos arquivos neste projeto é a seguinte:
 
 ```lua
-Copiar código
+
 desafio-api-piadas/
 │
 ├── cypress/
@@ -57,7 +56,6 @@ README.md: Documento que descreve o objetivo do desafio, como instalar as depend
 Modo interativo:
 
 ```bash
-Copiar código
 npx cypress open
 ```
 
@@ -66,7 +64,6 @@ Escolha o teste api_jokes.cy.js para executar.
 Modo headless:
 
 ```bash
-Copiar código
 npx cypress run
 ```
 
